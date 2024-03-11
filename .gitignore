@@ -1,0 +1,11 @@
+/GNSS_TEC/backup/
+/GNSS_TEC/datas/
+/GNSS_TEC/plots/
+*.ipynb_checkpoints/
+/.vscode/
+*.toml
+*.DS_store
+*.o
+*.env
+*.log
+
